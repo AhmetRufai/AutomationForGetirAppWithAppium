@@ -2,8 +2,7 @@
 - TestNG library was used in this test automation.
 
 
-Note1: You can find the used apk under the apk folder.
-Note2: You can find the running status of the project in the video folder.
+Note: You can find the used apk under the apk folder. You can find the running status of the project in the video folder.
 
 
 
